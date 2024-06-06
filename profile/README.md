@@ -1,4 +1,4 @@
-![image]([banner])
+![image](https://files.catbox.moe/vmmzkk.png)
 
 | Name                          | Description                                                                                               | Technologies                                                                           | 
 | :---------------------------- | :-------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------| 
@@ -10,4 +10,3 @@
 [api]: https://github.com/resonance-rest/api
 [fps]: https://github.com/resonance-rest/fps
 [cdn]: https://github.com/resonance-rest/cdn
-[banner]: https://files.catbox.moe/vmmzkk.png
