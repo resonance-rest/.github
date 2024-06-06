@@ -1,10 +1,10 @@
 ![image](https://files.catbox.moe/vmmzkk.png)
 
-| Name                          | Description                                                                                               | Technologies                                                                           | 
-| :---------------------------- | :-------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------| 
-| [api]                         | API                                                                                                       | Go                                                                                     | 
-| [fps]                         | FPS unlocker                                                                                              | Rust                                                                                   | 
-| [cdn]                         | CDN for API                                                                                               | Cloudflare R2                                                                          |           
+| Name                          | Description                                | Technologies                | 
+| :---------------------------- | :----------------------------------------- | :---------------------------| 
+| [api]                         | Rest API for Wuthering Waves.              | Go, Railway, Cloudflare     | 
+| [fps]                         | FPS unlocker for Wuthering Waves.          | Rust                        | 
+| [cdn]                         | CDN for main API for Wuthering Waves       | Cloudflare R2, Rclone       |           
 
 
 [api]: https://github.com/resonance-rest/api
