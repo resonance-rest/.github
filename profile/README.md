@@ -1,8 +1,8 @@
 ![image](https://files.catbox.moe/vmmzkk.png)
 
-[**resonance.rest**](https://resonance.rest) — We build various of useful tools for Wuthering Waves, we make with [**Go**](https://go.dev/) & [**TailwindCSS**](https://www.rust-lang.org/) & [**Cloudflare**](https://www.cloudflare.com/).
-
 <div align="center">
+
+[**resonance.rest**](https://resonance.rest) — We build various of useful tools for Wuthering Waves, we make with [**Go**](https://go.dev/) & [**TailwindCSS**](https://www.rust-lang.org/) & [**Cloudflare**](https://www.cloudflare.com/).
 
 | Name                          | Description                                | Technologies                           | 
 | :---------------------------- | :----------------------------------------- | :--------------------------------------| 
