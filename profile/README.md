@@ -1,3 +1,5 @@
+[![image](https://files.catbox.moe/rzydvd.png)](https://t.me/wutheringwavesleaksnews)
+
 ![image](https://files.catbox.moe/xs25pc.png)
 
 <div align="center">
