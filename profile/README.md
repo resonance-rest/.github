@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[**resonance.rest**](https://resonance.rest) — We build various of useful tools for Wuthering Waves, we make with [**NextJS**](https://www.python.org/](https://nextjs.org/), [**Python**](https://www.python.org/), [**Go**](https://go.dev/), [**Rust**](https://www.rust-lang.org/) & [**Cloudflare**](https://www.cloudflare.com/).
+[**resonance.rest**](https://resonance.rest) — We build various of useful tools for Wuthering Waves, we make with [**NextJS**](https://nextjs.org/), [**Python**](https://www.python.org/), [**Go**](https://go.dev/), [**Rust**](https://www.rust-lang.org/) & [**Cloudflare**](https://www.cloudflare.com/).
 
 | Name                          | Description                                | Technologies                           | 
 | :---------------------------- | :----------------------------------------- | :--------------------------------------| 
