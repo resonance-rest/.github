@@ -1,6 +1,6 @@
-<h1>CHANGLI, BEST WUTHERING WAVES HELPER BOT ON DISCORD - https://discord.com/oauth2/authorize?client_id=1274075579666399252&permissions=274878253056&integration_type=0&scope=bot+applications.commands</h1>
+[![changli](https://cdn.resonance.rest/changli.png)](https://discord.com/oauth2/authorize?client_id=1274075579666399252&permissions=274878253056&integration_type=0&scope=bot+applications.commands)
 
-![image](https://files.catbox.moe/xs25pc.png)
+![banner](https://cdn.resonance.rest/banner.png)
 
 <div align="center">
 
