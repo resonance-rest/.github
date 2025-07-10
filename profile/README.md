@@ -1,3 +1,5 @@
+### Discontinued, archived as portfolio purposes.
+
 [![changli](https://cdn.resonance.rest/changli.png)](https://discord.com/oauth2/authorize?client_id=1274075579666399252&permissions=274878253056&integration_type=0&scope=bot+applications.commands)
 
 ![banner](https://cdn.resonance.rest/banner.png)
