@@ -15,6 +15,7 @@
 | [cdn]                         | CDN for main API for Wuthering Waves       | Cloudflare R2, Rclone, Cloudflare      |    
 | [rpc]                         | Discord Rich Presence for Wuthering Waves  | Python                                 |  
 | [site]                        | Frontend for resonance.rest                | NextJS, TailwindCSS, Cloudflare        |  
+| [site]                        | Convene fetcher for Wuthering Waves        | Powershell                             |  
 
 </div>       
 
@@ -24,3 +25,4 @@
 [cdn]: https://github.com/resonance-rest/cdn
 [rpc]: https://github.com/resonance-rest/rpc
 [site]: https://github.com/resonance-rest/site
+[get]: https://github.com/resonance-rest/get
